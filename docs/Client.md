@@ -26,8 +26,9 @@ Run `patcher.exe` from the client's `system`, `system\eu` directories, for examp
 
 Replace `Core.dll` in `system` with the patched one from the `Core.dll.zip` archive.
 
-> [!WARNING]
-> The patched `Core.dll` was taken from [forum.ragezone.com](https://forum.ragezone.com/resources/l2j-share-l2jmobius-essence-7-3-sevensigns-1-dec-2023-protocol-447-client-447-source-code.38/). 
+!!! warning
+    
+    The patched `Core.dll` was taken from [forum.ragezone.com](https://forum.ragezone.com/resources/l2j-share-l2jmobius-essence-7-3-sevensigns-1-dec-2023-protocol-447-client-447-source-code.38/). 
 
 ### 3. `L2.ini` modification
 
@@ -53,6 +54,8 @@ To replace Russian item names with English names, replace 2 files from the [syst
 These 2 files are `eu\ItemName_Classic-eu.dat` and `eu\L2GameDataName.dat`.
 I generated these 2 files for the `L2EU-P447-D20240313-P-230809-240318-1` client version and they may not work for another version.
 
-> [!NOTE]
-> The code which replaces Russian item names with English names 
-> is currently in `L2Dn/L2Dn.UnitTests/DatReaderTests.cs` in `ReplaceRuItemNamesInEuClient` unit test. 
+
+!!! note
+
+    The code which replaces Russian item names with English names 
+    is currently in `L2Dn/L2Dn.UnitTests/DatReaderTests.cs` in `ReplaceRuItemNamesInEuClient` unit test.

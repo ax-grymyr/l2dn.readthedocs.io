@@ -4,7 +4,7 @@
 
 ### 1. Downloading the client
 
-You can download client from http://akumu.ru website. Any client for 447 protocol should work.
+You can download client from [http://akumu.ru](http://akumu.ru) website. Any client for 447 protocol should work.
 
 I use [L2EU-P447-D20240313-P-230809-240318-1](http://akumu.ru/lineage2/L2EU/P447/L2EU-P447-D20240313-P-230809-240318-1/) client version for testing the server.
 

@@ -4,11 +4,7 @@
   * Creating characters ✅
   * Deleting characters ✅
   * Auto-select last character ✅
-
-
 * Entering world ✅
-
-
 * PVE
   * Various weapon
     * Hands
@@ -29,36 +25,26 @@
     * Self-buff skills auto-usage
     * HP and MP potions auto-usage
     * Items auto-usage
-
-
 * PVP
   * Flagging
   * PK
   * TBD
-
-
 * Learning skills
   * Learning class skills ✅ 
   * TBD
-
-
 * Items
   * Item usage
     * Scrolls and potions
     * TBD
   * Compounding
   * TBD
-
- 
 * Inventory
   * Item number limit
   * Weight limit
   * Compounding
   * TBD
-
 * Warehouse
   * TBD 
-
 * Clans
   * Creating clan
   * Upgrading clan level
@@ -71,31 +57,19 @@
     * TBD
   * Clan wars
     * TBD
-
-
 * Alliances
   * TBD
-
-
 * Mobs
   * Auto-attack ✅
   * Skills usage
   * Social groups
   * TBD
-
-
 * Sieges
   * TBD
-
-
 * Olympiad
   * TBD
-
-
 * Zones
   * Peace zones
   * PVP zones
   * TBD
- 
-
 * TBD

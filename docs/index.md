@@ -1,6 +1,7 @@
-{!README.md!}
+# Welcome to L2Dn server documentation!
 
-# Welcome to Lumache's documentation!
+**L2Dn Server** is an open-source server emulator fully written in .NET for the famous Korean MMORPG Lineage 2.
+
 
 **Lumache** (/lu\'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients. It pulls data from the

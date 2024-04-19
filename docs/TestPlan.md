@@ -1,5 +1,8 @@
 ﻿# Test Plan
 
+Features that have been marked with a checkmark have been tested, 
+while others may work but have not undergone testing yet.
+
 - Characters
     - Creating characters ✅
     - Deleting characters ✅
@@ -72,7 +75,7 @@
         - Tower of Insolence
         - TBD
     - Merchants
-        - Weapon, armor, etc shops ✅
+        - Weapon, armor, other shops ✅
         - TBD
     - Defenders (in start locations)
     - Siege guards

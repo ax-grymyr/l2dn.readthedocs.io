@@ -38,6 +38,10 @@
         + TBD
     * Compounding
     * TBD
+- Crafting
+    * Registering recipes
+    * Deleting recipes from the recipe book
+    * Crafting items
 - Inventory
     * Item number limit
     * Weight limit

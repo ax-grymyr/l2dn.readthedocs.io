@@ -1,5 +1,10 @@
 # Changelog
 
+#### 2024-04-22
+- Voice command handlers have been ported from L2Jmobius scripts.
+- Community board handlers have been ported from L2Jmobius scripts. Community board (Alt-B in client) works. DB schema changed.
+- Temporary fix for system messages not being displayed in the client (possibly client tuning required).
+
 #### 2024-04-17
 - Client displays the number of characters on the server select screen.
 - Fixed bug that caused incorrect check of zone entrance conditions.

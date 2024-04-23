@@ -20,7 +20,11 @@ while others may work but have not undergone testing yet.
         - Heal skills
         - Damage skills ✅
         - Mass damage skills
+        - Spoiling and sweeping skills
         - TBD
+    - Party
+        - Creation, dismissing, changing leader, kicking member
+        - Drop distribution
     - Automatic fighting
         - Melee fighting ✅
         - Skills auto-usage ✅
@@ -42,8 +46,8 @@ while others may work but have not undergone testing yet.
     - Compounding
     - TBD
 - Crafting
-    - Registering recipes
-    - Deleting recipes from the recipe book
+    - Registering recipes ✅
+    - Deleting recipes from the recipe book ✅
     - Crafting items
 - Inventory
     - Item number limit

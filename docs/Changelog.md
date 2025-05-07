@@ -1,10 +1,10 @@
 # Changelog
 
-#### 2025-04-01
+#### 2025-03-18
 - The work of moving all the data (xml) loaders to the separarate assembly continues.
 - Skill loading has been refactored. The skill loading time slightly increased but now skills data consumes 2x less memory.
 
-#### 2025-02-01
+#### 2025-03-01
 - Null checking enabled in all projects. Massive refactoring has been done to fix all null checking compilation errors.
 
 #### 2024-04-22

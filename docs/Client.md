@@ -25,7 +25,7 @@ I use [`L2EU-P447-D20240327-P-230809-240401-1`](http://akumu.ru/lineage2/L2EU/P4
 - Download [`patcher.7z`](https://drive.google.com/file/d/1cL0Zl2dPKFIDr60VNS759TNmYRVaL4Y7/view?usp=sharing) and [`dsetup.dll.7z`](https://drive.google.com/file/d/1Tg48f7gmkAp1pnUN7EDbnZM81353wW_A/view?usp=sharing).
 - Extract `dsetup.dll.7z` to the client's `system` directory, replacing the existing dll.
 - Extract `patcher.7z` to the client's `system` directory and run `patcher.exe` from the directory.
-- Extract `patcher.7z` to the client's `system\eu` directory and run `patcher.exe` in the directory. It will take some time to patch all `.dat` file.
+- Extract `patcher.7z` to the client's `system\eu` directory and run `patcher.exe` in the directory. It will take some time to patch all `.dat` files.
 
 ### 3. `L2.ini` modification
 
